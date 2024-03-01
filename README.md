@@ -5,3 +5,5 @@
 2.) Notebook contains project EDA and modeling ("02_notebooks/model engineering.ipynb")
 
 3.) Data for modeling ("01_data/data_for_task_1.csv")
+
+4.) Collateral in ("05_reports/...")
